@@ -1,0 +1,14 @@
+{
+  "name": "do-you-love-me",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A silly Valentine's Day trap",
+  "scripts": {
+    "dev": "http-server -p 3000",
+    "build": "echo 'No build step needed for static HTML'",
+    "lint": "echo 'No linter configured for static HTML project'"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.1.1"
+  }
+}
